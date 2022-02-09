@@ -2,11 +2,21 @@
 
 namespace LoopsExercise
 {
-   class Program
+   class WeeklyTotal
    {
       static void Main(string[] args)
       {
-         Console.WriteLine("Hello World!");
+
+         //initialization phase
+         string inputsales;
+         double total = 0;
+         double value = 0;
+
+         //processing phase
+         Console.WriteLine("Enter value or -1 to quit ");
+         decimal 
+
+
       }
    }
 }
