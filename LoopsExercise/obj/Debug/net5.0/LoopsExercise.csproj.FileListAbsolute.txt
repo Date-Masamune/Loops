@@ -1,0 +1,16 @@
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.exe
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.deps.json
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.runtimeconfig.json
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.runtimeconfig.dev.json
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.dll
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\ref\LoopsExercise.dll
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\bin\Debug\net5.0\LoopsExercise.pdb
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.csproj.AssemblyReference.cache
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.AssemblyInfoInputs.cache
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.AssemblyInfo.cs
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.dll
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\ref\LoopsExercise.dll
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.pdb
+C:\Users\4400112799\source\repos\LoopsExercise\LoopsExercise\obj\Debug\net5.0\LoopsExercise.genruntimeconfig.cache
